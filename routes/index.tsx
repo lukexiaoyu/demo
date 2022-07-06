@@ -14,6 +14,7 @@ export default function Home() {
       <hr />
       <a href="/about">about</a>
       <a href="/one">one</a>
+      <a href="/two">two</a>
       <hr />
       <Counter start={3} />
       
